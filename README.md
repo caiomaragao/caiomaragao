@@ -10,7 +10,7 @@
   </a>
 
   <p>
-    <a href="https://caiomaragao.github.io/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=090d16" alt="Live Portfolio" /></a>
+    <a href="https://caiomaragao.github.io/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-090d16?style=for-the-badge&logo=google-chrome&logoColor=38bdf8&labelColor=090d16" alt="Live Portfolio" /></a>
     <a href="https://www.linkedin.com/in/caio-machado-arag%C3%A3o-378019325/"><img src="https://img.shields.io/badge/LINKEDIN-090d16?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=090d16" alt="LinkedIn" /></a>
     <a href="https://www.behance.net/caiomachado32"><img src="https://img.shields.io/badge/BEHANCE-090d16?style=for-the-badge&logo=behance&logoColor=38bdf8&labelColor=090d16" alt="Behance" /></a>
   </p>
