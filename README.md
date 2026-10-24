@@ -45,34 +45,44 @@
 
 ### 🛠️ Tech Stack & Toolkit
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 UI / UX & Visual Arts</h4>
-      <p>
-        <img src="https://img.shields.io/badge/FIGMA-0d1117?style=flat-square&logo=figma&logoColor=38bdf8" alt="Figma" />
-        <img src="https://img.shields.io/badge/ILLUSTRATOR-0d1117?style=flat-square&logo=adobeillustrator&logoColor=38bdf8" alt="Illustrator" />
-        <img src="https://img.shields.io/badge/PHOTOSHOP-0d1117?style=flat-square&logo=adobephotoshop&logoColor=38bdf8" alt="Photoshop" />
-        <br />
-        <img src="https://img.shields.io/badge/DESIGN_SYSTEMS-0d1117?style=flat-square&logo=sketch&logoColor=38bdf8" alt="Design Systems" />
-        <img src="https://img.shields.io/badge/WIREFRAMING-0d1117?style=flat-square&logo=adobexd&logoColor=38bdf8" alt="Wireframing" />
-        <img src="https://img.shields.io/badge/PROTOTYPING-0d1117?style=flat-square&logo=figma&logoColor=38bdf8" alt="Prototyping" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Frontend & Engineering</h4>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=38bdf8" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=38bdf8" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=flat-square&logo=javascript&logoColor=38bdf8" alt="JavaScript" />
-        <br />
-        <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/REACT-0d1117?style=flat-square&logo=react&logoColor=38bdf8" alt="React" />
-        <img src="https://img.shields.io/badge/TAILWIND_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38bdf8" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/GIT-0d1117?style=flat-square&logo=git&logoColor=38bdf8" alt="Git" />
-      </p>
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th width="500"></th>
+      <th width="500"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <h4>🎨 UI / UX & Visual Arts</h4>
+        <p>
+          <img src="https://img.shields.io/badge/FIGMA-0d1117?style=flat-square&logo=figma&logoColor=38bdf8" alt="Figma" />
+          <img src="https://img.shields.io/badge/ILLUSTRATOR-0d1117?style=flat-square&logo=adobeillustrator&logoColor=38bdf8" alt="Illustrator" />
+          <img src="https://img.shields.io/badge/PHOTOSHOP-0d1117?style=flat-square&logo=adobephotoshop&logoColor=38bdf8" alt="Photoshop" />
+          <br />
+          <img src="https://img.shields.io/badge/DESIGN_SYSTEMS-0d1117?style=flat-square&logo=sketch&logoColor=38bdf8" alt="Design Systems" />
+          <img src="https://img.shields.io/badge/WIREFRAMING-0d1117?style=flat-square&logo=adobexd&logoColor=38bdf8" alt="Wireframing" />
+          <br />
+          <img src="https://img.shields.io/badge/PROTOTYPING-0d1117?style=flat-square&logo=figma&logoColor=38bdf8" alt="Prototyping" />
+        </p>
+      </td>
+      <td valign="top">
+        <h4>💻 Frontend & Engineering</h4>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=38bdf8" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=38bdf8" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=flat-square&logo=javascript&logoColor=38bdf8" alt="JavaScript" />
+          <br />
+          <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/REACT-0d1117?style=flat-square&logo=react&logoColor=38bdf8" alt="React" />
+          <img src="https://img.shields.io/badge/TAILWIND_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38bdf8" alt="Tailwind" />
+          <br />
+          <img src="https://img.shields.io/badge/GIT-0d1117?style=flat-square&logo=git&logoColor=38bdf8" alt="Git" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
